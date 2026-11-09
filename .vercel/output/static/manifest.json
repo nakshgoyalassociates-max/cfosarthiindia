@@ -1,0 +1,64 @@
+{
+  "id": "/",
+  "name": "MIS Insights Hub - Virtual CFO Suite",
+  "short_name": "Virtual CFO",
+  "description": "Virtual CFO Suite & MIS financial insights hub with compliance tracking, action pendencies, budget vs actuals, and client financial analytics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "CFO Dashboard",
+      "short_name": "Dashboard",
+      "description": "Open Virtual CFO Executive Practice Radar",
+      "url": "/?tab=dashboard",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Statutory Compliances",
+      "short_name": "Compliances",
+      "description": "35-item statutory compliance master register",
+      "url": "/?tab=compliances",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Financial MIS",
+      "short_name": "MIS",
+      "description": "Monthly Financial MIS and budget variance reports",
+      "url": "/?tab=mis",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

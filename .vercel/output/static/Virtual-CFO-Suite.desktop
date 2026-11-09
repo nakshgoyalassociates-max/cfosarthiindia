@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Virtual CFO Suite
+GenericName=Virtual CFO Management Suite
+Comment=Statutory compliances, CFO sign-off review queue, financial MIS, and cash runway tracking
+Exec=xdg-open https://ais-dev-k733qlaxah6aekwki5x7bh-604919188747.asia-southeast1.run.app
+Icon=office-finance
+Terminal=false
+Categories=Office;Finance;
+Keywords=CFO;MIS;Compliance;Finance;Tax;
+StartupNotify=true

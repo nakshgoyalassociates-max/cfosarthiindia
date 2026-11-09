@@ -1,0 +1,6 @@
+{
+  "name": "MIS Insights Hub",
+  "description": "Virtual CFO Suite & MIS financial insights hub with compliance tracking, action pendencies, budget vs actuals, and client financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

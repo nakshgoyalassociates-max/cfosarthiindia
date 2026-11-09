@@ -1,0 +1,36 @@
+compliance_name,category,frequency,applicability,is_active
+GSTR-1 (Outward supplies),GST,Monthly,All regular registered dealers,true
+IFF – Invoice Furnishing Facility,GST,Monthly,"QRMP scheme taxpayers (M1, M2 of quarter)",true
+GSTR-3B (Summary return & tax payment),GST,Monthly,All regular registered dealers,true
+CMP-08 (Composition scheme statement-cum-payment),GST,Quarterly,Composition dealers,true
+GSTR-4 (Composition annual return),GST,Annual,Composition dealers,true
+GSTR-9 (Annual return),GST,Annual,Regular taxpayers (turnover above threshold; optional below),true
+GSTR-9C (Reconciliation Statement),GST,Annual,Taxpayers with turnover above prescribed limit (currently >= ₹5 Cr),true
+ITC-04 (Goods sent to job worker),GST,Half-yearly,Manufacturers sending goods for job work,true
+LUT – Letter of Undertaking (for exports without IGST),GST,Annual,Exporters,true
+E-Way Bill & E-Invoice Compliance Monitoring,GST,Ongoing / Transaction-based,Applicable dealers based on turnover/threshold,true
+TDS Payment (Challan 281),TDS / TCS,Monthly,All deductors,true
+TDS Return – Form 24Q (Salary),TDS / TCS,Quarterly,Employers,true
+TDS Return – Form 26Q (Non-salary payments),TDS / TCS,Quarterly,All deductors (non-salary),true
+TDS Return – Form 27Q (Payments to Non-Residents),TDS / TCS,Quarterly,Deductors making NR payments,true
+TCS Return – Form 27EQ,TDS / TCS,Quarterly,Collectors of TCS,true
+Form 16 Issuance (Salary TDS certificate),TDS / TCS,Annual,Employers,true
+Form 16A Issuance (Non-salary TDS certificate),TDS / TCS,Quarterly,All deductors,true
+Advance Tax Payment,Income Tax,Quarterly,"Assessees with tax liability > ₹10,000 p.a.",true
+Income Tax Return (ITR) Filing,Income Tax,Annual,All entities/individuals,true
+Tax Audit Report (Form 3CA/3CB-3CD),Income Tax,Annual,Entities exceeding turnover/receipt thresholds,true
+Transfer Pricing Report (Form 3CEB),Income Tax,Annual,Entities with international/specified domestic transactions,true
+AOC-4 (Filing of Financial Statements),ROC / MCA,Annual,All companies,true
+MGT-7 / MGT-7A (Annual Return),ROC / MCA,Annual,All companies,true
+DIR-3 KYC (Director KYC),ROC / MCA,Annual,All DIN holders,true
+ADT-1 (Auditor Appointment/Reappointment),ROC / MCA,Event-based,All companies,true
+DPT-3 (Return of Deposits/Loans),ROC / MCA,Annual,All companies (other than govt. co.),true
+MSME-1 (Outstanding payments to MSME > 45 days),ROC / MCA,Half-yearly,Companies with MSME dues,true
+Board Meetings & Minutes,ROC / MCA,Quarterly,All companies,true
+PF Payment,PF / ESI,Monthly,Establishments with 20+ employees (or covered voluntarily),true
+PF Return (ECR),PF / ESI,Monthly,Covered establishments,true
+ESI Payment,PF / ESI,Monthly,Establishments with 10+ employees & wage threshold,true
+ESI Return,PF / ESI,Half-yearly,Covered establishments,true
+Professional Tax Payment & Return,Professional Tax & State,Monthly,Employers/professionals (state-specific),true
+Shops & Establishment Registration Renewal,Professional Tax & State,Annual,Establishments under S&E Act,true
+Labour Welfare Fund (LWF) Contribution,Professional Tax & State,Half-yearly,Establishments in applicable states,true

@@ -1,11 +1,24 @@
-<div align="center">
+# MIS Insights Hub
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+pls proceed from the already created app as attahced .client team to give facility to upload excel in decided template having data for MIS. similar to CFO. Aslo client team can give remarks reasons in MIS pages . In client veiw use pie chart to show company health and financial analytics. further let me know how cfo can also work as admin and have necessry changes , addition , deletion, put security protocol , fix vewing editing rights in apps. i think you can create admin panel for that
 
-  <h1>Built with AI Studio</h2>
+This project was built with [Lovable](https://lovable.dev).
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Build with Lovable
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/08ea9212-3b23-4d6b-b92b-c0d4eb2b1f7f).
 
-</div>
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
